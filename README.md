@@ -6,19 +6,19 @@ Powerful Software
 
 ### Welcome to the Repository ###
 
-Feel free to access [my portfolio](http://portfolio.jordonhudgens.com).
+Feel free to access [my portfolio](http://portfolio.jordanhudgens.com).
 
 > ## This is just a test sentence
 >
 > Second sentence for the test
 >
-> bold sentence for the *test*.
+>  Change the word *test*.
 >
 > More bolder **word**.
 
 ### Crazy good software
 * a bullet
-+another bullet
++  another bullet
 - 24/7 support
 
 ### Reasons to choose us
